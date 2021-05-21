@@ -2930,3 +2930,57 @@ java.lang.InterruptedException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-21 11:12:13.946
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.rueeEDJa => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-21 11:38:17.796
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-21 11:38:17.796
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@633f3376[org.springframework.tooling.boot.ls:1.25.0.202103111026(id=548)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-21 11:38:17.796
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-21 11:38:20.347
+!MESSAGE Boot LS startup time from start to initialized: 2550ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-21 11:38:20.440
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.NIFMtnAuisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-21 11:38:20.441
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-21 11:38:20.441
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-21 11:38:20.441
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-21 11:38:20.441
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-21 11:38:20.441
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.NIFMtnAu => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-21 11:38:20.443
+!MESSAGE classpath=96 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-21 11:38:20.444
+!MESSAGE buffering callback sts4.classpath.NIFMtnAu cursomc false 96
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-21 11:38:20.444
+!MESSAGE executing callback sts4.classpath.NIFMtnAu 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-21 11:38:20.886
+!MESSAGE executing callback sts4.classpath.NIFMtnAu SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-21 13:29:23.497
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.NIFMtnAu
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-21 13:29:23.498
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.NIFMtnAu
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-21 13:29:23.499
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-21 13:29:23.503
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.NIFMtnAu => OK
