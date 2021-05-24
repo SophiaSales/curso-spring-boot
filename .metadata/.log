@@ -7541,3 +7541,57 @@ java.lang.NullPointerException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:29:42.476
 !MESSAGE executing callback sts4.classpath.nVcHhjTv SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:42:16.432
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.nVcHhjTv
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:42:16.432
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.nVcHhjTv
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:42:16.432
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:42:16.433
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.nVcHhjTv => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:43:38.980
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:43:38.980
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@4a907e5a[org.springframework.tooling.boot.ls:1.25.0.202103111026(id=548)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:43:38.980
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:43:41.506
+!MESSAGE Boot LS startup time from start to initialized: 2526ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:43:41.595
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.sKObMoleisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:43:41.596
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:43:41.596
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:43:41.597
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:43:41.597
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:43:41.597
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.sKObMole => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:43:41.600
+!MESSAGE classpath=111 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:43:41.601
+!MESSAGE buffering callback sts4.classpath.sKObMole cursomc false 111
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:43:41.601
+!MESSAGE executing callback sts4.classpath.sKObMole 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:43:41.955
+!MESSAGE executing callback sts4.classpath.sKObMole SUCCESS [done]

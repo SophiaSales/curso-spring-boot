@@ -4759,3 +4759,17 @@ org.eclipse.core.runtime.CoreException: Launch configuration Programa (1) refere
 2021-05-24 15:36:08,182 [Worker-204: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-05-24 15:36:08,182 [Worker-204: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-05-24 15:36:08,183 [Worker-204: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sophs/Gabs/Spring tool ide/curso-spring/cursomc/src/test/resources
+2021-05-24 15:43:38,912 [Worker-213: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-24 15:43:38,912 [Worker-213: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-24 15:43:38,912 [Worker-213: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-05-24 15:43:38,934 [Worker-213: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-24 15:43:38,940 [Worker-213: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-24 15:43:38,940 [Worker-213: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-24 15:43:38,940 [Worker-213: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sophs/Gabs/Spring tool ide/curso-spring/cursomc/src/test/resources
+2021-05-24 15:44:58,864 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-24 15:44:58,864 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-24 15:44:58,865 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-05-24 15:44:58,887 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-05-24 15:44:58,888 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-24 15:44:58,889 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-05-24 15:44:58,889 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/sophs/Gabs/Spring tool ide/curso-spring/cursomc/src/test/resources
