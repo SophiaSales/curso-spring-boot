@@ -7499,3 +7499,45 @@ java.lang.NullPointerException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:26:08.869
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.xTlKBnnd => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:29:39.457
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:29:39.457
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@4a907e5a[org.springframework.tooling.boot.ls:1.25.0.202103111026(id=548)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:29:39.457
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:29:41.893
+!MESSAGE Boot LS startup time from start to initialized: 2435ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:29:42.005
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.nVcHhjTvisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:29:42.007
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:29:42.007
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:29:42.007
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:29:42.007
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:29:42.007
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.nVcHhjTv => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:29:42.009
+!MESSAGE classpath=111 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:29:42.009
+!MESSAGE buffering callback sts4.classpath.nVcHhjTv cursomc false 111
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:29:42.009
+!MESSAGE executing callback sts4.classpath.nVcHhjTv 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-05-24 15:29:42.476
+!MESSAGE executing callback sts4.classpath.nVcHhjTv SUCCESS [done]
