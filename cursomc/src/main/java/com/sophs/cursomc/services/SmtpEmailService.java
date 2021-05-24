@@ -31,6 +31,5 @@ public class SmtpEmailService extends AbstractEmailService {
 		LOG.info("Enviando email...");
 		javaMailSender.send(msg);
 		LOG.info("Email enviado");
-		
 	}
 }
